@@ -12,8 +12,8 @@ Lenguajes y tecnologías:
 
 
 <img src= "https://user-images.githubusercontent.com/104176100/199246439-dbf4840c-f386-480a-a43f-c77c5d6e6639.png" width="90" height="90"> </a>
-<img src= "https://user-images.githubusercontent.com/104176100/199245217-b6105d9d-2109-486e-92f8-07c1e94cb6ef" width="90" height="90"> </a>
-<img src= "https://user-images.githubusercontent.com/104176100/199245453-87a7c0af-1a79-4ffe-baaa-043119d2ab0d" width="90" height="90"> </a>
+<img src= "https://user-images.githubusercontent.com/104176100/199250352-a98bda90-cf31-4696-af63-f76758fb954b.png" width="90" height="90"> </a>
+<img src= "https://user-images.githubusercontent.com/104176100/199250484-d54b8de4-3679-4500-b260-a635e764c7a5.png" width="90" height="90"> </a>
 <img src= "https://user-images.githubusercontent.com/104176100/199247148-cb959a19-929b-4d79-9053-74a3fbca3cae.jpg" width="90" height="90"> </a>
 
 <br>
