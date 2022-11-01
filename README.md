@@ -8,19 +8,17 @@ Proyectos:
 
 
 Lenguajes y tecnologías
-![image](https://user-images.githubusercontent.com/104176100/199241288-97086dc0-3f12-4629-8f7d-5daa8e01ff95.png)
-![image](https://user-images.githubusercontent.com/104176100/199241337-7cbf228f-008a-4a64-a425-a803b36e14f5.png)
-![image](https://user-images.githubusercontent.com/104176100/199241376-dc936667-397e-4988-9dd5-9436d624dc29.png)
-![image](https://user-images.githubusercontent.com/104176100/199241464-43f0a633-e523-4864-b181-135fa3b08de3.png)
-![image](https://user-images.githubusercontent.com/104176100/199242196-277d4621-3d4e-4880-9d23-9759c558cdc1.png)
+![image](https://user-images.githubusercontent.com/104176100/199245079-a6516f84-dbd6-4b20-9d00-e228fa990d26.png)
+![image](https://user-images.githubusercontent.com/104176100/199245217-b6105d9d-2109-486e-92f8-07c1e94cb6ef.png)
+![image](https://user-images.githubusercontent.com/104176100/199245453-87a7c0af-1a79-4ffe-baaa-043119d2ab0d.png)
+
 
 
 Linkedin:
-
-<a href="https://linkedin.com/in/dabien-hugo" rel="nofollow"><img align="center" src="![image](https://user-images.githubusercontent.com/104176100/199242791-4e807d95-5707-4eff-8b1b-dadab4cd3e59.png)" alt="Hugo Dabien" height="30" width="40" style="max-width: 100%;"></a>
+![image](https://user-images.githubusercontent.com/104176100/199245720-8f82e611-31e4-4262-a577-b40e0cc8ea24.png)
+<a href="https://linkedin.com/in/dabien-hugo" rel="nofollow"><img align="center" </a>
 
 
 Orgullosamente Argentino!
-![image](https://user-images.githubusercontent.com/104176100/199243029-532ef2d5-ddbf-44ee-9863-f91de10f25c7.png)
-
+![image](https://user-images.githubusercontent.com/104176100/199245615-48562a49-c8e5-4e5a-9d18-d1910e709499.png)
 
