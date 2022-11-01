@@ -19,10 +19,6 @@ Lenguajes y tecnologías:
 <br>
 <br>
 
-Linkedin:
-<br>
-<a href="www.linkedin.com/in/dabien-hugo-498753236"> <img src= "https://user-images.githubusercontent.com/104176100/199245720-8f82e611-31e4-4262-a577-b40e0cc8ea24.png" width="90" height="90"> </a>
-
 
 Orgullosamente Argentino!
 <br>
