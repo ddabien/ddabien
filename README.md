@@ -29,6 +29,6 @@ Lenguajes y tecnologías:
 
 Orgullosamente Argentino!
 <br>
-<img src= "https://user-images.githubusercontent.com/104176100/199245615-48562a49-c8e5-4e5a-9d18-d1910e709499.png" width="90" height="90"> </a>
+<img src= "https://user-images.githubusercontent.com/104176100/199245615-48562a49-c8e5-4e5a-9d18-d1910e709499.png" width="120" height="120"> </a>
 
 
