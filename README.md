@@ -19,10 +19,10 @@ Lenguajes y tecnologías:
 
 <br>
 <br>
-![descarga](https://user-images.githubusercontent.com/104176100/200987803-61041b6a-6abe-4ed0-a740-5e83522ea598.png)
-![camtasia](https://user-images.githubusercontent.com/104176100/200987868-5fb02d2e-5efc-4efc-b1e9-503da437a99f.png)
-![articulate](https://user-images.githubusercontent.com/104176100/200987874-38f39c37-6c72-4f96-bc1f-26671b0b291f.jpg)
+
 <img src= "https://user-images.githubusercontent.com/104176100/199247148-cb959a19-929b-4d79-9053-74a3fbca3cae.jpg" width="90" height="90"> </a>
+<img src= "https://user-images.githubusercontent.com/104176100/200987868-5fb02d2e-5efc-4efc-b1e9-503da437a99f.png" width="90" height="90"> </a>
+<img src= "https://user-images.githubusercontent.com/104176100/200987874-38f39c37-6c72-4f96-bc1f-26671b0b291f.jpg" width="90" height="90"> </a>
 
 
 Orgullosamente Argentino!
