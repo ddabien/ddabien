@@ -1,38 +1,68 @@
-### Hola! 👋 Soy ddabien!
+## 👋 Hola, soy Hugo Dabien
 
-Soy médico y me he desarrollado en la gestión y desarrollo de plataformas de aprendizaje Elearning.
-Valoro la tecnología y entiendo la importancia de la modernización en todos los ámbitos, incluyendo la Salud.
+🩺 Médico Legista y del Trabajo - Especialista en Seguridad e Higiene y Gestión Ambiental 
+💻 Full Stack Developer 
 
-Proyectos:
+🚀 Desarrollo soluciones reales para el ámbito médico, legal y empresarial  
 
-- Argentina programa - Trabajo Final Integrador
-- BaremoDigital - Decreto 549/25
-- ErgoInforme - Evaluaciones ergonómicas
-- Medicus_Peritus - Gestión completa para peritos Médicos
-- DocuContratistas - Gestión documental para contratistas
+Combino experiencia pericial con desarrollo de software para crear herramientas como:
 
+- 📊 BaremoDigital — cálculo de incapacidades (Decreto 549/2025)  
+- ⚖️ Medicus_Peritus — gestión pericial médica  
+- 🧠 ErgoInforme — evaluaciones ergonómicas  
+- 📁 DocuContratistas — gestión documental para empresas  
 
-Lenguajes y tecnologías:
-
-
-
-<img src= "https://user-images.githubusercontent.com/104176100/200986711-ab1b4344-9c15-404a-b467-09cd8c19ab3d.jpg" width="70" height="70"> </a>
-<img src= "https://user-images.githubusercontent.com/104176100/199250352-a98bda90-cf31-4696-af63-f76758fb954b.png" width="70" height="70"> </a>
-<img src= "https://user-images.githubusercontent.com/104176100/200986732-5c6085ef-5fba-4862-ada4-3185832b642d.jpg" width="70" height="70"> </a>
+📍 Argentina
 
 
-<br>
-<br>
+## 🛠️ Tecnologías y herramientas
 
-<img src= "https://user-images.githubusercontent.com/104176100/199247148-cb959a19-929b-4d79-9053-74a3fbca3cae.jpg" width="70" height="70"> </a>
-<img src= "https://user-images.githubusercontent.com/104176100/200987868-5fb02d2e-5efc-4efc-b1e9-503da437a99f.png" width="70" height="70"> </a>
-<img src= "https://user-images.githubusercontent.com/104176100/200988625-f8554865-08eb-447e-944f-26ccc112a77c.png" width="70" height="70"> </a>
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+
+### 🗄️ Base de datos
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+### 🖥️ Infraestructura
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx" />
+
+### ☁️ Cloud & networking
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+
+### 🧰 Otros
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 
+## 🚀 Proyectos destacados
+
+### 📁 DocuContratistas
+Sistema de gestión documental para empresas contratistas.  
+Control de vencimientos, cumplimiento normativo y habilitación operativa.
+
+### 📊 BaremoDigital
+Herramienta de cálculo médico-legal basada en normativa argentina (Decreto 549/2025).
+
+### ⚖️ Medicus_Peritus
+Plataforma para gestión integral de pericias médicas.
+
+### 🧠 ErgoInforme
+Sistema digital para evaluaciones ergonómicas laborales.
 
 
+## 🎯 Enfoque
 
-<br>
-<img src= "https://user-images.githubusercontent.com/104176100/199245615-48562a49-c8e5-4e5a-9d18-d1910e709499.png" width="120" height="120"> </a>
+✔ Desarrollo herramientas con impacto real en salud, derecho y empresas  
+✔ Experiencia directa como perito judicial  
+✔ Enfoque práctico: menos teoría, más soluciones que funcionan  
+
+No desarrollo por hobby: desarrollo para resolver problemas concretos.
 
 
+## 📈 Actualmente
+
+- Mejorando DocuContratistas como SaaS
+- Integrando automatización y workflows
+- Explorando IA aplicada a procesos periciales
