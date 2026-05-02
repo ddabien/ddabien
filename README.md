@@ -6,6 +6,10 @@ Valoro la tecnología y entiendo la importancia de la modernización en todos lo
 Proyectos:
 
 - Argentina programa - Trabajo Final Integrador
+- BaremoDigital - Decreto 549/25
+- ErgoInforme - Evaluaciones ergonómicas
+- Medicus_Peritus - Gestión completa para peritos Médicos
+- DocuContratistas - Gestión documental para contratistas
 
 
 Lenguajes y tecnologías:
