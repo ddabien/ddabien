@@ -66,3 +66,7 @@ No desarrollo por hobby: desarrollo para resolver problemas concretos.
 - Mejorando DocuContratistas como SaaS
 - Integrando automatización y workflows
 - Explorando IA aplicada a procesos periciales
+
+<br>
+
+<img src="./assets/github_8bit_docucontratistas_pong.gif" width="100%" />
