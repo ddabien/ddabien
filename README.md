@@ -27,7 +27,7 @@ Combino experiencia pericial con desarrollo de software para crear herramientas 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 ### 🖥️ Infraestructura
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx" />
+<img src="https://skillicons.dev/icons?i=linux,apple,docker,nginx" />
 
 ### ☁️ Cloud & networking
 <img src="https://skillicons.dev/icons?i=cloudflare" />
